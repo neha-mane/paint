@@ -1,0 +1,30 @@
+README
+
+The modules required to be imported:
+Tkinter
+PIL(Python Imaging Library)
+
+How to run the program:
+python paint.py
+
+Functionality of the Program:
+1. Can create shapes like circles, ovals, rectangles, squares and straight lines.
+2. Shows the actual motion of the object as we drag it along the canvas
+3. Can write freehand with pencils.
+4. Can erase all objects on the canvas.
+5. Can undo the objects created.
+6. Can insert stamps on canvas.
+7. Can save file in multiple formats like png, jpg, gif.
+8. Can open existing files.
+9. Can zoom in and zoom out.
+10.Can insert text into canvas and can be edited later.
+11.Can choose text features like bold, italics, font, font size.
+12.Can change the colour of all the objects.
+13.Can scroll the canvas.
+14.Drop down menu for many features.
+15.Can move objects on the canvas.
+16.Can delete selected objects
+17.Can clear the whole canvas by opening a new file
+
+
+

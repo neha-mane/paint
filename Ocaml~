@@ -1,0 +1,14 @@
+OCaml
+Ocaml stands for objective Caml.
+It is a free open source project.
+It is a type safe language
+It uses garbage collection to reclaim unused memory
+
+Derivation:
+ML -> SML -> Caml -> OCaml 
+
+Programming Paradigms:
+	Metaprogramming
+	Partially Functional
+	Imperative
+	Object Oriented 
